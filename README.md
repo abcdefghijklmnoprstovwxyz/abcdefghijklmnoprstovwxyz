@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @abcdefghijklmnoprstovwxyz
 - 👀 I’m interested in programing and cyber-security
 - 🌱 I’m currently learning batch and python
-- 📫 How to reach me ...
 
 <!---
 abcdefghijklmnoprstovwxyz/abcdefghijklmnoprstovwxyz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
